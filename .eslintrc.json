@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@yagovela/eslint-config/next", 
+    "next/core-web-vitals"
+  ]
+}
