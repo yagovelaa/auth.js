@@ -15,17 +15,16 @@
 
 This project was made to study auth.js, we have features like Two-Factor Authentication (2FA), Forgot Password functionality, Email Verification functionality, Credential login, OAuth login (Google and Github) and much more.
 
-<div align="center">
-  <video width="600" controls>
-    <source src=".github/auth.js.mp4" type="video/mp4">
-    Seu navegador não suporta o elemento de vídeo.
-  </video>
-</div>
+**Project**
 
-<div align="center" style="display: flex; justify-content: center; gap: 8px;">
-  <img src=".github/confirm-email.png" alt="confirm-email" width="200" style="margin-right: 10px;">
-  <img src=".github/2fa-email.png" alt="2fa-email" width="200" style="margin-right: 10px;">
-  <img src=".github/reset-password-email.png" alt="reset-password-email" width="200">
+https://github.com/yagovelaa/auth.js/assets/133478879/5568eb60-8b4b-4e8f-bc1c-43dd2a68d92f
+
+**Email template screenshots**
+
+<div align="center">
+  <img src=".github/confirm-email.png" alt="confirm-email" width="600">
+  <img src=".github/2fa-email.png" alt="2fa-email" width="600">
+  <img src=".github/reset-password-email.png" alt="reset-password-email" width="600">
 </div>
 
 ## 🛠️ Technologies
